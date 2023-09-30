@@ -1,0 +1,17 @@
+.container {
+ 
+    height: 600px;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    line-height: 500px;
+    font-size: 24px;
+    
+   
+}
+
+/* Styles when hovering */
+.container:hover {
+    background-color: blueviolet;
+   
+}
